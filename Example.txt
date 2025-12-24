@@ -1,0 +1,43 @@
+================================================================================
+CNN ARTICLE (FAKE EXAMPLE)
+================================================================================
+
+URL: https://www.cnn.com/2025/12/19/technology/aurora-city-ai-traffic-study
+Title: Researchers test AI-powered traffic system in experimental smart city
+Author: Alex Moreno
+Date: 2025-12-19T14:32:10.000Z
+Received: 2025-12-19T14:35:02.481Z
+Word Count: 412
+
+================================================================================
+CONTENT
+================================================================================
+
+Officials in the experimental city of Aurora Heights unveiled a new artificial
+intelligence traffic system Friday, claiming early results show significant
+reductions in congestion and commute times.
+
+The system, developed in partnership with university researchers and private
+engineers, uses real-time camera feeds and sensor data to adjust traffic lights
+dynamically throughout the city. Unlike traditional timed signals, the AI model
+responds instantly to accidents, construction, and traffic surges.
+
+City planners say a three-month pilot program reduced average commute times by
+18% during peak hours. Emergency response vehicles also benefited, reaching
+destinations faster as the system automatically cleared intersections.
+
+“We wanted to see what would happen if traffic infrastructure could think
+instead of just follow a schedule,” said project lead Dr. Elena Park. “The early
+results are encouraging, but this is still a controlled experiment.”
+
+Privacy advocates have raised concerns about data collection, though officials
+say all video feeds are anonymized and processed locally without storing
+identifiable information.
+
+If the trial continues to show positive outcomes, Aurora Heights plans to expand
+the system citywide next year. Other municipalities are already monitoring the
+project closely, viewing it as a potential blueprint for future smart cities.
+
+================================================================================
+END OF ARTICLE
+================================================================================

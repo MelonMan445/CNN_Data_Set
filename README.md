@@ -70,9 +70,3 @@ This project was tested on a **Raspberry Pi** (Java and Python come preinstalled
 
 ---
 
-## Disclaimer
-
-This project is intended for **educational and research purposes only**.  
-The author is not responsible for misuse of the code or violations of third-party terms.
-
----
